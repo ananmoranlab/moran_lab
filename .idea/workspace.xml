@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8932ca1c-b891-493b-a39a-bd3f31b54520" name="Default" comment="7/9/20 -  fixed CV and FF functions">
+    <list default="true" id="8932ca1c-b891-493b-a39a-bd3f31b54520" name="Default" comment="8/6/22 -  just adding a comment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plotter.py" beforeDir="false" afterPath="$PROJECT_DIR$/plotter.py" afterDir="false" />
     </list>
@@ -334,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654670760348</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="8/6/22 -  just adding a comment">
+      <created>1654679669027</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1654679669027</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView">
@@ -348,6 +355,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -369,7 +386,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="04/09/18 - added multiple ploters for all neuron FR and all lfp bands." />
     <MESSAGE value="05/09/18 - fixed plotting issue" />
     <MESSAGE value="09/10/18 - added plot and save BL FR for all neurons automatically" />
     <MESSAGE value="17/10/18 - added CV and FF analysis for single neurons and population" />
@@ -394,13 +410,14 @@
     <MESSAGE value="09/09/19 - added low pass filtering to the undersample function" />
     <MESSAGE value="18/11/19 -  fixed CV and FF functions" />
     <MESSAGE value="7/9/20 -  fixed CV and FF functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/9/20 -  fixed CV and FF functions" />
+    <MESSAGE value="8/6/22 -  just adding a comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/6/22 -  just adding a comment" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1654678011947">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1654680114771">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1654678011947" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1654680114771" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1654678026051">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
