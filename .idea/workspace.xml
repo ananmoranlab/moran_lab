@@ -45,18 +45,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="2AHdCRBbehmBwyfTxwQaL8kBM2r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -332,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574077226595</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="7/9/20 -  fixed CV and FF functions">
+      <created>1654670760348</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1654670760348</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView">
@@ -367,7 +369,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="04/09/18 - fixed spike_sort issue with pulling event times when Fs is not 30KHz" />
     <MESSAGE value="04/09/18 - added multiple ploters for all neuron FR and all lfp bands." />
     <MESSAGE value="05/09/18 - fixed plotting issue" />
     <MESSAGE value="09/10/18 - added plot and save BL FR for all neurons automatically" />
@@ -392,6 +393,21 @@
     <MESSAGE value="09/09/19 - added to lfp_functions func to get lfp slice and func to get lfp per event" />
     <MESSAGE value="09/09/19 - added low pass filtering to the undersample function" />
     <MESSAGE value="18/11/19 -  fixed CV and FF functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="18/11/19 -  fixed CV and FF functions" />
+    <MESSAGE value="7/9/20 -  fixed CV and FF functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/9/20 -  fixed CV and FF functions" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1654678011947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1654678011947" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1654678026051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1654678026051" />
+    <state x="427" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1654678006001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="427" y="242" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1654678006001" />
   </component>
 </project>
