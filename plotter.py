@@ -12,7 +12,7 @@ from matplotlib.mlab import PCA
 from mpl_toolkits.mplot3d import Axes3D
 from mpl_toolkits.mplot3d import proj3d
 
-
+# just a comment
 def plot_psth(spike_train,event_dic,bin_width=0.05,start_time=-1,end_time=4,overlap=0,normalize='Hz'):
     """
     spike_train is an array
